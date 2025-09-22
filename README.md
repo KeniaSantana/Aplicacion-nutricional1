@@ -11,7 +11,7 @@ Tiene el objetivo  de proporcionar informacion sobre alimentos, nutrientes y pla
 - Semestre: 5to D
 - Institucion: Centro de Estudios Tecnologicos Industrial y de Servicios No.61
 
-* Nombre completo: 
+    * Nombre completo: 
 Santana Ruiz Kenia Alejandra
 - Edad: 17
 - Correo electronico: 23308060610371@cetis61.edu.mx
